@@ -10,8 +10,6 @@ public class Driver {
     String un = "root";
 
     String password = "";
-	
-    //Delete before submit
     
 	public Statement CONN() {
 
